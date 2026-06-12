@@ -50,6 +50,9 @@ AI copywriting with performance prediction scores. Know which headline converts 
 **[Recraft](https://usefuturestack.com/tools/recraft)** — Freemium  
 AI image and vector generator for logos, brand assets, mockups, and ads. No design skills required.
 
+**[CreatorSkills](https://creatorskills.co)** — Paid  
+Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+
 ---
 
 ## Research and Decision Making

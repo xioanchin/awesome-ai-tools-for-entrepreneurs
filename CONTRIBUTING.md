@@ -7,7 +7,7 @@ Thank you for your interest in contributing to this curated list! We appreciate 
 To add a tool to this list, please follow these steps:
 
 ### Step 1: Submit Your Tool to FutureStack
-First, submit your tool to **[FutureStack](https://futurestack.com)** — our platform for discovering and reviewing AI tools.
+First, submit your tool to **[FutureStack](https://futurestack.com)**: our platform for discovering and reviewing AI tools.
 
 - Go to [FutureStack](https://futurestack.com)
 - Add your tool to the platform
@@ -38,7 +38,7 @@ MyTool is an AI-powered platform that helps entrepreneurs... [description]
 
 ## Entry Added
 
-**[MyTool](https://futurestack.com/tools/mytool)** — Paid  
+**[MyTool](https://futurestack.com/tools/mytool)** (Paid)  
 Brief description of the tool and what it does.
 ```
 

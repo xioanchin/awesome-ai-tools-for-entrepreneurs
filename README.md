@@ -88,6 +88,12 @@ The foundational developer platform for building AI-powered products. Text, imag
 
 ---
 
+
+## Business Operations
+
+**[Commandra](https://commandra.io)** — Paid  
+AI-powered CRM built for home service contractors. Automates lead response (60-second auto-reply), follow-up sequences for dead quotes, review request automation, scheduling, and invoicing. Built by a real contractor inside a concrete and demolition business.
+
 ## Browse the Full Directory
 
 This list is a subset. The full FutureStack directory has 100+ AI tools filtered by founder use case, pricing, and platform.

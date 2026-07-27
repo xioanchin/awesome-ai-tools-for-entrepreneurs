@@ -73,6 +73,12 @@ Affordable AI writing assistant for short-form content. Good for founders who ne
 **[Poe](https://usefuturestack.com/tools/poe)** — Freemium  
 Access GPT, Claude, Gemini, and other models in one app. Test which AI works best for your specific tasks.
 
+
+## AI Voice Generation
+
+**[CharaVox](https://charavox.com)** — Free Trial  
+AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
+
 ---
 
 ## Developer Tools (For Technical Founders)

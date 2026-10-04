@@ -72,6 +72,9 @@ Affordable AI writing assistant for short-form content. Good for founders who ne
 
 **[Poe](https://usefuturestack.com/tools/poe)** — Freemium  
 Access GPT, Claude, Gemini, and other models in one app. Test which AI works best for your specific tasks.
+**[AI eBook Pro](https://aiebookpro.com/)** — Freemium  
+Turns a one-sentence idea into a complete eBook with chapters and a cover. Good for founders who need a lead magnet or a book to sell.
+
 
 ---
 

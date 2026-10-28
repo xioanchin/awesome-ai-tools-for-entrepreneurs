@@ -1,5 +1,6 @@
 # Best AI Tools for Entrepreneurs in 2026
 
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 A curated list of the best AI tools for entrepreneurs, founders, and indie hackers. Updated weekly. Every tool links to a full review with pricing, use cases, and community upvotes.
 
 ---

@@ -63,6 +63,9 @@ xAI chatbot with real-time web and X context. Useful for market research, trend 
 **[Elicit](https://usefuturestack.com/tools/elicit)** — Freemium  
 AI research assistant for synthesizing papers and evidence. Useful when validating ideas or understanding a new market.
 
+**[No Stairs Please](https://nostairsplease.com/)** — Free  
+Every small stage in all 50 states, and who books it. Includes a live-music venue directory ([venues](https://nostairsplease.com/venues)) and [MCP server](https://nostairsplease.com/mcp).
+
 ---
 
 ## Writing and Communication
